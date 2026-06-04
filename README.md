@@ -31,10 +31,12 @@ Durante o desenvolvimento, foram aplicadas propriedades essenciais do Flexbox, t
 Clone este repositório:
 
 ```
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/riqueerculano/desafio-flexbox.git
 ```
 Navegue até a pasta do projeto:
 ```
-cd NOME_DO_REPOSITORIO
+cd desafio-flebox
 ```
-Abra o arquivo index.html no seu navegador de preferência.
+Abra o arquivo ``index.html`` no seu navegador de preferência.
+
+Feito por Henrique Erculano
