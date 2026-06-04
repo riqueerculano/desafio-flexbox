@@ -80,6 +80,19 @@ body {
   gap: 12px;
 }
 
+.menu-button img,
+.icone-video img,
+.icone-notificacao img {
+  width: 24px;
+  height: 24px;
+}
+
+.icone-avatar img {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+}
+
 
 /* LAYOUT */
 .container {
