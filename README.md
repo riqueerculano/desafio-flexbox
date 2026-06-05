@@ -27,7 +27,7 @@ Durante o desenvolvimento, foram aplicadas propriedades essenciais do Flexbox, t
 
 🔗 [Clique aqui para visualizar o projeto online](https://riqueerculano.github.io/desafio-flexbox/)
 
-##🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 Clone este repositório:
 
 ```
